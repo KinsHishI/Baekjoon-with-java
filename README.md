@@ -1,2 +1,2 @@
 # Baekjoon-with-java
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+백준을 자바로 풀어보았습니다.
